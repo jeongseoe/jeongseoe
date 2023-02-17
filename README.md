@@ -36,10 +36,12 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongseoe&layout=compact"><br><br>
-
+<br>
+<br>
+<br>
+<div align ="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongseoe&layout=compact">
+</div>
 
 <br>
 <br>
